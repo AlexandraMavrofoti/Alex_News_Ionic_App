@@ -1,0 +1,28 @@
+{
+  "pwa_features": [
+    {
+      "image": "assets/images/progressive.jpg",
+      "title": "Dublin weather",
+      "slug": "progressive",
+      "description": "The national forecaster has predicted mild temperatures and a mix of showers and sunny spells for the week ahead. Meanwhile, today will be breezy with sunny spells and isolated showers. The highest temperatures will be between 17 and 18 degrees in moderate to fresh westerly winds."
+    },
+    {
+      "image": "assets/images/responsive.jpg",
+      "title": "Dublin weather weekly forecast",
+      "slug": "responsive",
+      "description": "Long spells of sun shine are set to drench Dublin today with only a slight chance of rain, Met Eireann has forecasted. Despite the sunshine, it won't fell that warm with temperatures below 20 degrees. It will also be quite breezy. Sunday and early next week will be largely the same with a lot of sunshine and showers of rain."
+    },
+    {
+      "image": "assets/images/connectivity-independent.jpg",
+      "title": "Green light for over 540 new apartments in Dublin's south inner city",
+      "slug": "connectivity-independent",
+      "description": "The green light has been given for over 540 new apartments in Dublin's south inner city. The homes will be built on the St Teresa's Garden site in Dublin 8 as part of a partnership between Dublin City Council and the Land Development Agency (LDA). The project is expected to deliver a total of 543 homes, which is made up of 154 social and 389 cost-rental homes. This week An Bord Pleanala gave its approval for the project, which follows an extensive public consultation process and the plans include a number of community spaces and facilities. The St Teresa's Gardens site is located just off Donore Avenue in Dublin 8 and it is adjacent to the Liberties."
+    },
+    {
+      "image": "assets/images/app-like.jpg",
+      "title": "Win of tenants",
+      "slug": "app-like",
+      "description": "Residents of Glovers Court, which was built in 1976, have been fighting for years to have the complex torn down and rebuilt due a large number of issues. The flats are just off Aungier Street in the city centre. The residents say sewage comes up drains - including into some residents' kitchens, rat infestations are regular, mould is common and people use the entrance to the complex as a toilet. Glovers Court residents have been fighting for years for the complex to be torn down and rebuilt. To their dismay, Dublin City Council were recently considering moving new tenants into vacant flats after they were refurbished."
+    }
+  ]
+}
